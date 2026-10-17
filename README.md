@@ -1,7 +1,7 @@
 
 💻 Server Attack Computer Report 🚀
 Phase 1: Target IP Identification 🎯
-![Crunch Phase 2](main/att1%20.png)
+![att1](main/att1%20.png)
 
 Objective: Define and confirm the target IP address to begin the reconnaissance process.
 
