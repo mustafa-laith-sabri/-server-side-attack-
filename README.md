@@ -5,12 +5,11 @@ Phase 1: Target IP Identification 🎯
 Objective: Define and confirm the target IP address to begin the reconnaissance process.
 
 ![Attachment 1](att1.png)
-![Attachment 2](att2.png)
 
 Phase 2: Initial Port Scanning 🔍
 Tool: nmap <target_ip>
 Objective: Scan the target to discover open ports and available services running on the IP.
-
+![Attachment 2](att2.png)
 ![Attachment 3](att3.png)
 
 Phase 3: Vulnerability & Service Detection 🛡️
